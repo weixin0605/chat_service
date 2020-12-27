@@ -14,4 +14,5 @@ def cut(senetence,by_word=False,use_stopwords=False,with_sg=False):
     :param with_sg:
     :return:
     """
+
     pass
